@@ -8,7 +8,7 @@ function whisper(string)
   return string.toLowerCase()
 }
 
-function sayHiToGrandma(string)
+function logShout(string)
 {
-  return string
+  return string.
 }
