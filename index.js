@@ -3,7 +3,7 @@ function shout(string)
   return string.toUpperCase()
 }
 
-function sayHelloGradma(string)
+function whisper(string)
 {
   return string.toLowerCase()
 }
