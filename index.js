@@ -10,5 +10,4 @@ function whisper(string)
 
 function logShout(string)
 {
-  return string.andCallThroug()
-}
+  return console.log(string)}
