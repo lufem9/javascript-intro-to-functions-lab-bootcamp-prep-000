@@ -10,5 +10,5 @@ function whisper(string)
 
 function sayHiToGrandma(string)
 {
-  return string.ToEqual(string)
+  return string
 }
