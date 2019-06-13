@@ -10,6 +10,6 @@ function whisper(string)
 
 function logShout(string)
 {
-  return string.spy()
+  return spy(string)
   
 }
